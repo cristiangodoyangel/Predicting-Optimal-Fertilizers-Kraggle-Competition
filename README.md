@@ -1,4 +1,4 @@
-# 🌱 Predicting Optimal Fertilizers - Kaggle Competition
+# Predicting Optimal Fertilizers - Kaggle Competition
 
 Este proyecto participa en una competencia de Kaggle con el objetivo de predecir el fertilizante óptimo para distintos cultivos, basándose en parámetros de suelo y clima.
 
